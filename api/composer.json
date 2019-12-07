@@ -1,0 +1,10 @@
+{
+    "require": {
+        "googleads/googleads-php-lib": "~5.7"
+    },
+    "autoload": {
+        "classmap": [
+            "../classes/"
+        ]
+    }
+}
